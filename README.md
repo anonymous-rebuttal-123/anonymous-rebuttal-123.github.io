@@ -3,7 +3,14 @@ We would like to sincerely thank the reviewers for taking time out of their busy
 
 On this webpage, we will provide detailed answers to your questions regarding APLDM.
 
-## Displaying Intermediate Generation Results of APLDM
+# 1. Displaying Intermediate Generation Results of APLDM
 TODO
 
-## How Does PFSA Work?
+# 2. How Does PFSA Work?
+The role of PFSA can be summarized in two aspects:
+
+##(i) Adjusting the intensity across different frequency bands##: In the early to mid stages of denoising, PFSA increases the intensity of high-frequency signals in the latent representation, while in the later stages of denoising, it reduces the intensity of high-frequency signals; ##(2) Aggregation effect##: It has the ability to cluster tokens into several categories.
+
+
+
+
