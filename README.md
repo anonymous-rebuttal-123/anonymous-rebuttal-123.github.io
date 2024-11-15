@@ -13,6 +13,8 @@ The role of PFSA is manifested in two aspects:
 
 ***(ii) clustering effect***: It has the ability to cluster tokens into several categories.
 
+## 2.1 PFSA Adjusts the Variance and High-Frequency Signal Intensity of Latent Representations
 
+## 2.2 PFSA Clusters Tokens of Latent Representations
 
 
