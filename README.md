@@ -11,7 +11,7 @@ The role of PFSA is manifested in two aspects:
 
 ***(i) adjusting the variance and intensity across different frequency bands***: during the early and middle stages of denoising, PFSA amplifies the high-frequency signal intensity of the latent representation and increases the variance, while in the later stages of denoising, it reduces the high-frequency signal intensity and decreases the variance;
 
-***(ii) Clustering effect***: It has the ability to cluster tokens into several categories.
+***(ii) clustering effect***: It has the ability to cluster tokens into several categories.
 
 
 
