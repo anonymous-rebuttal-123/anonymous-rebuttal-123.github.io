@@ -7,11 +7,11 @@ On this webpage, we will provide detailed answers to your questions regarding AP
 TODO
 
 # 2. How Does PFSA Work?
-The role of PFSA can be summarized in two aspects:
+The role of PFSA is manifested in two aspects:
 
-**(i) Adjusting the intensity across different frequency bands**: In the early to mid stages of denoising, PFSA increases the intensity of high-frequency signals in the latent representation, while in the later stages of denoising, it reduces the intensity of high-frequency signals;
+***(i) adjusting the variance and intensity across different frequency bands***: during the early and middle stages of denoising, PFSA amplifies the high-frequency signal intensity of the latent representation and increases the variance, while in the later stages of denoising, it reduces the high-frequency signal intensity and decreases the variance;
 
-**(ii) Clustering effect**: It has the ability to cluster tokens into several categories.
+***(ii) Clustering effect***: It has the ability to cluster tokens into several categories.
 
 
 
