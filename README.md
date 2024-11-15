@@ -10,6 +10,7 @@ TODO
 The role of PFSA can be summarized in two aspects:
 
 **(i) Adjusting the intensity across different frequency bands**: In the early to mid stages of denoising, PFSA increases the intensity of high-frequency signals in the latent representation, while in the later stages of denoising, it reduces the intensity of high-frequency signals;
+
 **(2) Aggregation effect**: It has the ability to cluster tokens into several categories.
 
 
