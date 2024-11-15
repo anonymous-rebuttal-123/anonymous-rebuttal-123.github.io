@@ -3,3 +3,7 @@ We would like to sincerely thank the reviewers for taking time out of their busy
 
 On this webpage, we will provide detailed answers to your questions regarding APLDM.
 
+## Displaying Intermediate Generation Results of APLDM
+TODO
+
+## How Does PFSA Work?
